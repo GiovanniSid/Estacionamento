@@ -1,0 +1,23 @@
+h1,th{
+    text-align: center;
+  
+
+}
+
+form {
+    text-align: center;
+}
+body {
+    font-family: var(--font-default);
+    margin: 0;
+  }
+
+  button{
+    border-radius: 30px;
+  }
+  table {
+    text-align: center;
+  }
+  a{
+    font-size: 40px;
+  }
